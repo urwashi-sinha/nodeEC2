@@ -2,7 +2,7 @@
   "name": "nodejs",
   "version": "1.0.0",
   "main": "app.js",
-  "scripts": {
+  "script": {
    
     "start": "node app.js"
   },
